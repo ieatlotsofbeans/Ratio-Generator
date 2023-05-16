@@ -1,0 +1,8 @@
+C:\Users\Luke\Desktop\Math_ projects\A_funny_MAth_THing\bin\Debug\A_funny_MAth_THing.exe.config
+C:\Users\Luke\Desktop\Math_ projects\A_funny_MAth_THing\bin\Debug\A_funny_MAth_THing.exe
+C:\Users\Luke\Desktop\Math_ projects\A_funny_MAth_THing\bin\Debug\A_funny_MAth_THing.pdb
+C:\Users\Luke\Desktop\Math_ projects\A_funny_MAth_THing\obj\Debug\A_funny_MAth_THing.csproj.AssemblyReference.cache
+C:\Users\Luke\Desktop\Math_ projects\A_funny_MAth_THing\obj\Debug\A_funny_MAth_THing.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luke\Desktop\Math_ projects\A_funny_MAth_THing\obj\Debug\A_funny_MAth_THing.csproj.CoreCompileInputs.cache
+C:\Users\Luke\Desktop\Math_ projects\A_funny_MAth_THing\obj\Debug\A_funny_MAth_THing.exe
+C:\Users\Luke\Desktop\Math_ projects\A_funny_MAth_THing\obj\Debug\A_funny_MAth_THing.pdb
